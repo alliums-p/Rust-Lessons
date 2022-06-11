@@ -1,0 +1,1 @@
+D:\xampp\htdocs\Projects\blockchain\Courses\Moralis\Rust\Rust-Lessons\07.\ Conditions\target\debug\conditions.exe: D:\xampp\htdocs\Projects\blockchain\Courses\Moralis\Rust\Rust-Lessons\07.\ Conditions\src\main.rs
