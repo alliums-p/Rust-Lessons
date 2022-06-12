@@ -32,7 +32,7 @@ fn main() {
         println!("cheat code: {}", cheat_code[i]);
     }
 
-    for value in  cheat_code {
+    for value in cheat_code {
         println!("cheat code by value: {}", value);
     }
 }
