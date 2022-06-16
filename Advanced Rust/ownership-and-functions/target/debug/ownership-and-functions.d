@@ -1,0 +1,1 @@
+D:\xampp\htdocs\Projects\blockchain\Courses\Moralis\Rust\Rust-Lessons\Advanced\ Rust\ownership-and-functions\target\debug\ownership-and-functions.exe: D:\xampp\htdocs\Projects\blockchain\Courses\Moralis\Rust\Rust-Lessons\Advanced\ Rust\ownership-and-functions\src\main.rs

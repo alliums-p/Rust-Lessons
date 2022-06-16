@@ -1,5 +1,5 @@
 fn double_str(s: &String) -> String {
-    format!("{}{}", s, s);
+    format!("{}{}", s, s)
 }
 
 fn main() {
