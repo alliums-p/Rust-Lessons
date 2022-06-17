@@ -1,0 +1,1 @@
+D:\xampp\htdocs\Projects\blockchain\Courses\Moralis\Rust\Rust-Lessons\Advanced\ Rust\traits\target\debug\traits.exe: D:\xampp\htdocs\Projects\blockchain\Courses\Moralis\Rust\Rust-Lessons\Advanced\ Rust\traits\src\main.rs
