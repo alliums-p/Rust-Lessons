@@ -66,7 +66,7 @@ fn main() {
     println!("\nRemoved element: {:?}", rm_element);
     println!("new data: {:?}", data);
 
-    let rm_element2 = data.pop();  // 0 is the index of the vector
+    let rm_element2 = data.pop();  // `pop` removing the last element of the vector
     println!("Removed element: {:?}", rm_element2);
     println!("new data: {:?}", data);
 
