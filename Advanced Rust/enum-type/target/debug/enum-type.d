@@ -1,0 +1,1 @@
+D:\xampp\htdocs\Projects\blockchain\Courses\Moralis\Rust\Rust-Lessons\Advanced\ Rust\enum-type\target\debug\enum-type.exe: D:\xampp\htdocs\Projects\blockchain\Courses\Moralis\Rust\Rust-Lessons\Advanced\ Rust\enum-type\src\main.rs
