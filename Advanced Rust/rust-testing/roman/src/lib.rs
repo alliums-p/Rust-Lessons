@@ -41,16 +41,5 @@ mod tests {
         assert_eq!(convert("MMMDCCCLXXXVIII"), 3888);
     }
 
-    #[test]
-    fn it_works() {
-        let result = 2 + 2;
-        assert_eq!(result, 4);
-    }
-
-    #[test]
-    fn it_fails() {
-        assert_eq!(true, false);
-    }
-
     // tear-down
 }
